@@ -15,7 +15,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author david
+ * @author Joel
  */
 
 @WebServlet(name = "EncuestaControlador", urlPatterns = {"/api/encuesta"})
